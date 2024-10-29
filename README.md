@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display: flex; justify-content: space-between;">
-![Your GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RinYuRin&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RinYuRin&layout=compact&theme=default)
+    <img src="https://github-readme-stats.vercel.app/api?username=RinYuRin&show_icons=true&theme=default" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinYuRin&layout=compact&theme=default" width="48%" />
 </div>
+
