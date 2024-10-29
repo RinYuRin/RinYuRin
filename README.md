@@ -21,9 +21,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinYuRin&layout=compact&theme=default" width="48%" />
 </div>
 
-### Custom Progress Badge
-Here’s a custom badge representing your overall profile progress or some other metric you’d like to show as a percentage:
-
 ![Profile Progress](https://img.shields.io/badge/Profile%20Progress-80%25-blue)
 
 ### Get in Touch
