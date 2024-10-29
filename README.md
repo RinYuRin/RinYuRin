@@ -14,8 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### GitHub Stats
+
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=RinYuRin&show_icons=true&theme=default" width="48%" padding="10%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RinYuRin&show_icons=true&theme=default" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinYuRin&layout=compact&theme=default" width="48%" />
 </div>
+
+### Custom Progress Badge
+Here’s a custom badge representing your overall profile progress or some other metric you’d like to show as a percentage:
+
+![Profile Progress](https://img.shields.io/badge/Profile%20Progress-80%25-blue)
+
+### Get in Touch
+Feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [Twitter](https://twitter.com/yourusername).
 
