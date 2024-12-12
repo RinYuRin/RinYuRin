@@ -1,6 +1,6 @@
 ### RinYuRin
 - 👨‍💻 Just Chilling Here
-- 🤖 Python Programmer
+- 🤖 Python Programmer, but I dont feel Like I'm Writing Python Program Lately
 - 📚 Novel Reader
 
 
